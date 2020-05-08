@@ -140,16 +140,6 @@ label {
 }
 
 /* Buttons */
-.dual-buttons {
-  margin: 34px auto 24px;
-  text-align: center;
-}
-
-.dual-buttons .btn, .dual-buttons input[type=submit] {
-  margin: 0 5px;
-  display: inline-block;
-}
-
 .btn {
   margin: 0 0 24px;
   padding: 11px 30px 10px;
